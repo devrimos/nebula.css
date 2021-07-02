@@ -1,0 +1,21 @@
+Merhaba ben Devrim Demir, bir süre önce kendi işlerimi kolaylaştırması
+açısından nebula.css dosyasını yapmaya başladım ve bir noktaya kadar getirebildim.
+Umarım size de faydası dokunur :)
+
+Kullanım şekline gelecek olursak HTML etiketinin içinde 3 şekilde kullanabilirsiniz.
+Örnek olarak;
+
+<div class="kutu"></div>
+<div id="kutu"></div>
+<div kutu></div>
+
+Diyelim ki bir menü oluşturmak istiyorsunuz,
+bu durumda sadece nav etiketini kullanmanız veya bir div etiketinin içine menu
+yazmanız menü oluşturmanıza yetecektir. Sonrasında istediğiniz
+şekilde üzerinde oynamalar yapabilirsiniz.
+
+Şuan için responsive açısından bir yararı dokunmasa da sadece etiket arasına class
+vererek ihtiyacınız olabilecek şeyler oluşturma konusunda yararlı olduğunu söyleyebilirim.
+(örn: footer, kutu, kare, daire, cember vs vs)
+
+nebula.css belgesinin içeriğini inceleyerek sağladığı şeyler hakkında bilgi edinebilirsiniz.
